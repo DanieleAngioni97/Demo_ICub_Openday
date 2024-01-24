@@ -1,0 +1,8 @@
+installare pytorch:
+pip install torch torchvision torchaudio
+
+installare secml:
+pip install secml[torch, torchvision]
+
+installare opencv:
+pip install opencv-python
