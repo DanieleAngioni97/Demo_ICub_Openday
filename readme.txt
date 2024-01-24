@@ -1,4 +1,5 @@
-scaricare da questo [link](https://drive.google.com/drive/folders/19uB55JdZfZweSFbo9PnZ8NA1PXn8YhTe?hl=it) il file iCubWorld7_day4_deep_features.gz e inserirlo nella root del progetto.
+scaricare il file iCubWorld7_day4_deep_features.gz e inserirlo nella root del progetto
+(link di gdrive -> https://drive.google.com/drive/folders/19uB55JdZfZweSFbo9PnZ8NA1PXn8YhTe?hl=it)
 
 lanciare demo_icub.py da un env python 3 con:
 	- secml v 0.10
