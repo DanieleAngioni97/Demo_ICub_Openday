@@ -1,0 +1,10 @@
+# --- PyTorch ---
+torch
+torchvision
+torchaudio
+
+# --- SECML (con supporto torch e torchvision) ---
+secml[torch,torchvision]
+
+# --- OpenCV ---
+opencv-python

@@ -1,3 +1,10 @@
+```
+conda create -n openday python=3.9
+conda activate openday
+pip install -r requirements.txt
+```
+
+
 lanciare demo_icub.py da un env python 3 con:
 	- secml v 0.10
 	- cv2 (OpenCV)
