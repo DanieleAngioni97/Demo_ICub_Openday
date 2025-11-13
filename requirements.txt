@@ -3,6 +3,7 @@ torch
 torchvision
 torchaudio
 
+numpy==1.26.0
 # --- SECML (con supporto torch e torchvision) ---
 secml[torch,torchvision]
 
